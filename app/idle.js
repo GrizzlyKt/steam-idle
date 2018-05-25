@@ -1,7 +1,7 @@
 const SteamUser = require('steam-user');
 const SteamTotp = require('steam-totp');
 const SteamCommunity = require('steamcommunity');
-const config = require('./app/config.json');
+const config = require('./config.json');
 
 const client = new SteamUser();
 const community = new SteamCommunity();
