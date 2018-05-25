@@ -1,4 +1,4 @@
 @echo off
 title Idle 
-node idle.js
+node index.js
 pause
