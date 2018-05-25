@@ -1,0 +1,1 @@
+require('./app/idle.js');

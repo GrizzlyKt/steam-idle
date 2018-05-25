@@ -1,0 +1,16 @@
+{
+    "name": "idle",
+    "version": "1.0",
+    "description": "Idle your unfinised games, and get your card drops today.",
+    "main": "index.js",
+    "dependencies": {
+      "steam-totp": "^2.0.1",
+      "steam-user": "^3.26.0",
+      "steamcommunity": "^3.34.1"
+    },
+    "author": {
+      "name": "confern",
+      "url": "https://steamcommunity.com/id/confern/"
+    },
+    "license": "MIT"
+}
