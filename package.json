@@ -1,7 +1,7 @@
 {
-    "name": "idle",
-    "version": "1.0",
-    "description": "Idle your unfinised games, and get your card drops today.",
+    "name": "steamidle",
+    "version": "1.0.0",
+    "description": "Idle your unfinished games, and get your card drops today.",
     "main": "index.js",
     "dependencies": {
       "steam-totp": "^2.0.1",
