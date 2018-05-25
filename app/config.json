@@ -1,0 +1,10 @@
+{
+	"username": "USERNAME",
+	"password": "PASSWORD",
+	"steamurl": "https://steamcommunity.com/id/YOUR_CUSTOM_URL_NAME_HERE_OR_ID_64_ONLY_IF_YOU_DONT_HAVE/", // mine is for example confern Delete this after reading.
+	"sharedSecret": "OPTIONAL",
+	"games":
+	{
+		"game1": "https://steamcommunity.com/id/confern/gamecards/431560/" // or just 431560 WITHOUT "" eg "game1": 431560   Delete this after reading.
+	}
+}
