@@ -9,7 +9,6 @@ const community = new SteamCommunity();
 var z = config.games;
 let x = "";
 let y;
-let e = 0;
 let one;
 let two;
 let three;
