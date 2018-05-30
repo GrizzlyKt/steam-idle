@@ -1,11 +1,11 @@
 {
 	"username": "STEAM USERNAME",
 	"password": "STEAM PASSWORD",
-	"steamurl": "https://steamcommunity.com/id/YOUR_CUSTOM_URL_NAME_HERE_OR_ID_64_ONLY_IF_YOU_DONT_HAVE/", /* mine is for example https://steamcommunity.com/id/confern/ */
+	"steamurl": "https://steamcommunity.com/id/YOUR_CUSTOM_URL_NAME_HERE_OR_ID_64_ONLY_IF_YOU_DONT_HAVE/", // Mine is for example https://steamcommunity.com/id/confern/ delete this after reading.
 	"sharedSecret": "OPTIONAL",
 	"games":
 	{
-		"game1": "https://steamcommunity.com/id/confern/gamecards/440/", /* Links should have ", while App IDs should only be the number */ 
+		"game1": "https://steamcommunity.com/id/confern/gamecards/440/", // Links should have ", while App IDs should only be the number. Delete this after reading 
 		"game2": 440,
 		"game3": "",
 		"game4": "",
