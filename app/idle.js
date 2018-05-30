@@ -92,10 +92,10 @@ var now = new Date();
 var delay = 10 * 60 * 1000; // 10 min in msec
 var start = delay - (now.getMinutes() * 60 + now.getSeconds()) * 1000 + now.getMilliseconds();
 
-setTimeout(function hourReport(steamID, message) {
+setTimeout(function update() {
     client.setPersona(SteamUser.Steam.EPersonaState.Offline);
     client.gamesPlayed(["Restarting..."]);
     client.setPersona(SteamUser.Steam.EPersonaState.Online);
     client.gamesPlayed([Math.floor(one - 0), Math.floor(two - 0), Math.floor(three - 0), Math.floor(four - 0), Math.floor(five - 0)]);
-    setTimeout(hourReport, delay);
+    setTimeout(update, delay);
 }, start);
